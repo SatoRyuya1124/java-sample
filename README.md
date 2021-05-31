@@ -8,7 +8,7 @@
     $ docker-compose exec java bash
     ~~~
 * gradle（Javaプロジェクト）のビルド
-    ~~~shell
+    ~~~shells
     $ sh gradlew build
     ~~~
 * Spring bootアプリの起動
