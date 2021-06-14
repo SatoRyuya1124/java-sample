@@ -1,0 +1,2 @@
+com/example/demo/memo/MemoApplicationTests.java
+ com.example.demo.memo.MemoApplicationTests
